@@ -15,6 +15,8 @@ With the major **"Cold Fusion" update (Version 1.0)** released on **July 22, 202
 
 Crossplay is enabled by default for all supported platforms. If needed, access can be restricted to specific platforms for example, limiting connections to PC players or a single console type. 
 
+Test
+
 <InlineVoucher />
 
 

@@ -1,7 +1,7 @@
 ---
 id: 7d2d-commands
 title: "7 Days to Die: Kommandon"
-description: "Lär dig hur du effektivt hanterar din server med admin-kommandon och får bättre kontroll över spelet → Läs mer nu"
+description: "Lär dig hur du hanterar din server effektivt med admin-kommandon och förbättra spelkontrollen → Läs mer nu"
 sidebar_label: Kommandon
 services:
   - gameserver-7d2d
@@ -10,6 +10,10 @@ services:
 import InlineVoucher from '@site/src/components/InlineVoucher';
 
 <InlineVoucher />
+
+
+
+Test 123 hehehe
 
 ## Konsolen
 För att köra kommandon på din server måste du vara admin. Om du inte vet hur man blir admin, kolla in vår guide.

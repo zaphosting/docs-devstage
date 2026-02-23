@@ -11,6 +11,10 @@ import InlineVoucher from '@site/src/components/InlineVoucher';
 
 <InlineVoucher />
 
+
+
+Teste 123 hehehe
+
 ## O Console
 Para executar comandos no seu servidor de jogos, você precisa ser admin. Se não sabe como virar admin, dá uma olhada no nosso guia.
 Todos os comandos precisam ser executados pelo console do desenvolvedor. Você pode abrir ele pressionando `F1`

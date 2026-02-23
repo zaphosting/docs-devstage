@@ -11,6 +11,10 @@ import InlineVoucher from '@site/src/components/InlineVoucher';
 
 <InlineVoucher />
 
+
+
+Test 123 jejeje
+
 ## La Consola
 Para ejecutar comandos en tu servidor de juegos, necesitas ser admin. Si no sabes cómo convertirte en admin, echa un vistazo a nuestra guía.
 Todos los comandos deben ejecutarse a través de la consola de desarrollador. Puedes abrirla presionando `F1`
@@ -24,9 +28,9 @@ Los comandos más importantes:
 
 | Comando    | Descripción                                                 |
 | ----------------- | ------------------------------------------------------------ |
-| giveself [id del ítem] [nivel de calidad 1-6] | Te añade un ítem, con el nivel de cantidad elegido |
+| giveself [id del ítem] [nivel de calidad 1-6] | Te añade un ítem a ti mismo, con el nivel de calidad elegido |
 | debugmenu on/off | Activa el Menú de Depuración, se abre presionando G |
-| giveselfxp [cantidad] | Añade puntos de XP a tu personaje |
+| giveselfxp [cantidad] | Añade puntos de experiencia (XP) a tu personaje |
 | creativemenu on/off | Activa el Menú Creativo, se abre presionando U |
 | spawnsupplycrate | Genera una caja de suministros en tu ubicación |
 | admin [add] [remove] [list] | Comando para añadir/quitar admins |
