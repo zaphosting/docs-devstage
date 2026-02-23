@@ -1,7 +1,7 @@
 ---
 id: 7d2d-commands
-title: "7 Days to Die: コマンド一覧"
-description: "管理者コマンドを使ってサーバーを効果的に管理し、ゲームプレイのコントロールを強化しよう → 今すぐ詳しくチェック"
+title: "7 Days to Die: コマンド"
+description: "管理者コマンドを使ってサーバーを効果的に管理し、ゲームプレイのコントロールを強化しよう → 今すぐチェック"
 sidebar_label: コマンド
 services:
   - gameserver-7d2d
@@ -10,6 +10,10 @@ services:
 import InlineVoucher from '@site/src/components/InlineVoucher';
 
 <InlineVoucher />
+
+
+
+テスト123 へへへ
 
 ## コンソールについて
 サーバーでコマンドを実行するには管理者である必要があります。管理者になる方法がわからない場合は、ぜひ当社のガイドをチェックしてください。
@@ -24,10 +28,10 @@ import InlineVoucher from '@site/src/components/InlineVoucher';
 
 | コマンド    | 説明                                                 |
 | ----------------- | ------------------------------------------------------------ |
-| giveself [アイテムID] [品質レベル 1-6] | 指定した品質レベルのアイテムを自分に追加します |
-| debugmenu on/off | デバッグメニューを有効/無効にします。`G`キーで開けます |
+| giveself [アイテムID] [品質レベル1-6] | 指定した品質レベルのアイテムを自分に追加します |
+| debugmenu on/off | デバッグメニューを有効化/無効化。`G`キーで開けます |
 | giveselfxp [量] | キャラクターのXPポイントを追加します |
-| creativemenu on/off | クリエイティブメニューを有効/無効にします。`U`キーで開けます |
+| creativemenu on/off | クリエイティブメニューを有効化/無効化。`U`キーで開けます |
 | spawnsupplycrate | 現在の位置に補給箱をスポーンさせます |
 | admin [add] [remove] [list] | 管理者の追加・削除・一覧表示に使います |
 | kick [プレイヤー名] [理由] | プレイヤーをサーバーからキックします |
@@ -35,6 +39,6 @@ import InlineVoucher from '@site/src/components/InlineVoucher';
 | weather | 天候を変更します |
 | help | 利用可能なコマンド一覧を表示します |
 
-[さらに多くのコマンドはこちら](https://commands.gg/7dtd)
+[もっとコマンドを見る](https://commands.gg/7dtd)
 
 <InlineVoucher />

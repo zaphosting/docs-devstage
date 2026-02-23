@@ -1,7 +1,7 @@
 ---
 id: 7d2d-commands
 title: "7 Days to Die: Befehle"
-description: "Entdecke, wie du deinen Server effektiv mit Admin-Befehlen verwaltest und die Spielkontrolle verbesserst → Jetzt mehr erfahren"
+description: "Entdecke, wie du deinen Server effektiv mit Admin-Befehlen verwaltest und die Kontrolle über das Gameplay verbesserst → Jetzt mehr erfahren"
 sidebar_label: Befehle
 services:
   - gameserver-7d2d
@@ -11,9 +11,13 @@ import InlineVoucher from '@site/src/components/InlineVoucher';
 
 <InlineVoucher />
 
+
+
+Test 123 hehehe
+
 ## Die Konsole
 Um Befehle auf deinem Server auszuführen, musst du Admin sein. Wenn du nicht weißt, wie du Admin wirst, schau dir bitte unsere Anleitung an.
-Alle Befehle müssen über die Entwicklerkonsole ausgeführt werden. Du kannst sie mit `F1` öffnen.
+Alle Befehle müssen über die Entwicklerkonsole ausgeführt werden. Du kannst sie öffnen, indem du `F1` drückst.
 
 Die Konsole sieht so aus:
 

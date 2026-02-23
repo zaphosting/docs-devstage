@@ -11,9 +11,13 @@ import InlineVoucher from '@site/src/components/InlineVoucher';
 
 <InlineVoucher />
 
+
+
+Teste 123 hehehe
+
 ## O Console
-Para executar comandos no seu servidor de jogos, você precisa ser admin. Se não sabe como virar admin, dá uma olhada no nosso guia.
-Todos os comandos precisam ser executados pelo console do desenvolvedor. Você pode abrir ele pressionando `F1`
+Para executar comandos no seu servidor de jogos, você precisa ser admin. Se não sabe como virar admin, confira nosso guia.
+Todos os comandos devem ser executados pelo console do desenvolvedor. Você pode abri-lo pressionando `F1`
 
 O console é assim:
 
@@ -32,7 +36,7 @@ Os comandos mais importantes:
 | admin [add] [remove] [list] | Comando para adicionar/remover admins |
 | kick [nome do jogador] [motivo] | Expulsa um jogador do servidor |
 | tele [Jogador A] [Jogador B] | Teleporta o Jogador A para o Jogador B |
-| weather | Muda as condições do clima |
+| weather | Altera as condições do clima |
 | help | Mostra todos os comandos disponíveis |
 
 [mais comandos](https://commands.gg/7dtd)

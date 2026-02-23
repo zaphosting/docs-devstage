@@ -1,6 +1,6 @@
 ---
 id: abioticfactor-crossplay
-title: "Abiotic Factor: Configure o Suporte Crossplay e Saiba Como Conectar pelo Console"
+title: "Abiotic Factor: Configure o Suporte a Crossplay e Saiba Como Conectar pelo Console"
 description: "Descubra como ativar e gerenciar o crossplay em Abiotic Factor para multiplayer sem barreiras entre PC e consoles → Saiba mais agora"
 sidebar_label: Crossplay
 services:
@@ -15,6 +15,8 @@ Com a grande atualização **"Cold Fusion" (Versão 1.0)** lançada em **22 de j
 
 O crossplay vem ativado por padrão para todas as plataformas suportadas. Se quiser, você pode restringir o acesso a plataformas específicas, por exemplo, limitando conexões apenas para jogadores de PC ou de um tipo específico de console.
 
+Teste
+
 <InlineVoucher />
 
 ## Gerencie as Configurações de Crossplay
@@ -25,17 +27,17 @@ As configurações de plataformas para crossplay podem ser gerenciadas diretamen
 
 ## Conecte-se pelo Console
 
-Como jogadores de PC e console não podem se adicionar como amigos, entrar em um servidor compartilhado exige uma conexão direta via o navegador de servidores dentro do jogo. Usuários de console precisam garantir que o Crossplay esteja ativado nas configurações do jogo para conseguir ver e conectar em servidores crossplay.
+Como jogadores de PC e console não podem se adicionar como amigos, entrar em um servidor compartilhado exige uma conexão direta via o navegador de servidores dentro do jogo. Usuários de console precisam garantir que o Crossplay esteja ativado nas configurações do jogo para conseguir ver e conectar em servidores cross-platform.
 
 Para começar, abra Abiotic Factor no seu console e vá até o menu de configurações. Certifique-se de que a opção `Crossplay` esteja marcada como `Ativado`. Isso é essencial para que o servidor apareça na sua lista ao buscar servidores entre plataformas. Normalmente, essa opção aparece na primeira vez que você inicia o jogo, perguntando se deseja ativá-la.
 
 ![img](https://screensaver01.zap-hosting.com/index.php/s/WBZ9bntNTRZ5SRg/preview)
 
-Com o Crossplay ativado, volte ao menu principal e selecione **Enter The Facility**, depois **Join A Server**. Agora você tem duas opções para se conectar. Pode buscar o servidor digitando o nome exato na barra de busca e clicando em **Apply** ou usar a função **Direct Connect** inserindo o endereço IP do servidor junto com a porta. Se usar a busca, o servidor deve aparecer na lista abaixo. É só selecionar e clicar em **Join** para entrar.
+Com o Crossplay ativado, volte ao menu principal e selecione **Enter The Facility**, depois **Join A Server**. Agora você tem duas opções para se conectar. Ou busca o servidor digitando o nome exato na barra de pesquisa e clicando em **Aplicar**, ou usa a função **Conexão Direta** inserindo o endereço IP do servidor junto com a porta. Se usar a busca, o servidor deve aparecer na lista abaixo. Basta selecioná-lo e clicar em **Entrar** para conectar.
 
 ![img](https://screensaver01.zap-hosting.com/index.php/s/GDwMiQbxak3bqgd/preview)
 
-Se for conectar via IP, confira se o endereço e a porta estão corretos para garantir a conexão. Depois disso, você será levado direto para o servidor para começar a jogar.
+Se for conectar via IP, confira se o endereço e a porta estão corretos para garantir a conexão com sucesso. Depois disso, você será levado direto para o servidor para começar a jogar.
 
 ![img](https://screensaver01.zap-hosting.com/index.php/s/GEn69G86bEe65zA/preview)
 

@@ -11,9 +11,13 @@ import InlineVoucher from '@site/src/components/InlineVoucher';
 
 <InlineVoucher />
 
+
+
+Test 123 hehehe
+
 ## Konsola
-Aby uruchamiać komendy na swoim serwerze, musisz być adminem. Jeśli nie wiesz, jak zostać adminem, sprawdź nasz poradnik.  
-Wszystkie komendy muszą być wykonywane przez konsolę deweloperską. Otworzysz ją, naciskając `F1`.
+Aby uruchamiać komendy na swoim serwerze, musisz być adminem. Jeśli nie wiesz, jak zostać adminem, sprawdź nasz poradnik.
+Wszystkie komendy muszą być wykonywane przez konsolę deweloperską. Otworzysz ją, naciskając `F1`
 
 Konsola wygląda tak:
 
@@ -24,11 +28,11 @@ Najważniejsze komendy:
 
 | Komenda    | Opis                                                 |
 | ----------------- | ------------------------------------------------------------ |
-| giveself [id przedmiotu] [poziom jakości 1-6] | Dodaje sobie przedmiot z wybranym poziomem jakości |
-| debugmenu on/off | Włącza menu debugowania, które otworzysz klawiszem G |
+| giveself [item id] [poziom jakości 1-6] | Dodaje sobie przedmiot, z wybranym poziomem jakości |
+| debugmenu on/off | Włącza menu debugowania, które można otworzyć klawiszem G |
 | giveselfxp [ilość] | Dodaje punkty doświadczenia (XP) twojej postaci |
-| creativemenu on/off | Włącza menu kreatywne, które otworzysz klawiszem U |
-| spawnsupplycrate | Tworzy skrzynię z zaopatrzeniem w twojej lokalizacji |
+| creativemenu on/off | Włącza menu kreatywne, które można otworzyć klawiszem U |
+| spawnsupplycrate | Tworzy skrzynię zaopatrzeniową w twojej lokalizacji |
 | admin [add] [remove] [list] | Komenda do dodawania/usuwania adminów |
 | kick [nazwa gracza] [powód] | Wyrzuca gracza z serwera |
 | tele [Gracz A] [Gracz B] | Teleportuje Gracza A do Gracza B |

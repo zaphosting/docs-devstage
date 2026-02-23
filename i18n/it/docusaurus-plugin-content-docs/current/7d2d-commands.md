@@ -11,9 +11,13 @@ import InlineVoucher from '@site/src/components/InlineVoucher';
 
 <InlineVoucher />
 
+
+
+Test 123 hehehe
+
 ## La Console
 Per eseguire comandi sul tuo server, devi essere admin. Se non sai come diventarlo, dai un’occhiata alla nostra guida.
-Tutti i comandi vanno eseguiti tramite la console degli sviluppatori. Puoi aprirla premendo `F1`
+Tutti i comandi devono essere eseguiti tramite la console degli sviluppatori. Puoi aprirla premendo `F1`
 
 La console si presenta così:
 
@@ -24,14 +28,14 @@ I comandi più importanti:
 
 | Comando    | Descrizione                                                 |
 | ----------------- | ------------------------------------------------------------ |
-| giveself [item id] [quality level 1-6] | Ti aggiunge un oggetto, con il livello di qualità scelto |
+| giveself [id oggetto] [livello qualità 1-6] | Aggiunge un oggetto a te stesso, con il livello di qualità scelto |
 | debugmenu on/off | Attiva il Debug Menu, si apre premendo G |
-| giveselfxp [amount] | Aggiunge XP al tuo personaggio |
+| giveselfxp [quantità] | Aggiunge punti XP al tuo personaggio |
 | creativemenu on/off | Attiva il Creative Menu, si apre premendo U |
 | spawnsupplycrate | Fa spawnare una supply crate nella tua posizione |
 | admin [add] [remove] [list] | Comando per aggiungere/rimuovere admin |
-| kick [playername] [motivo] | Espelle un giocatore dal server |
-| tele [Player A] [Player B] | Teletrasporta Player A da Player B |
+| kick [nome giocatore] [motivo] | Espelle un giocatore dal server |
+| tele [Giocatore A] [Giocatore B] | Teletrasporta il Giocatore A dal Giocatore B |
 | weather | Cambia le condizioni meteo |
 | help | Mostra tutti i comandi disponibili |
 

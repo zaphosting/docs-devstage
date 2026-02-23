@@ -9,26 +9,34 @@ services:
 
 import InlineVoucher from '@site/src/components/InlineVoucher';
 
+
+
+Test Test Test 
+
+
+
 ## Introducción
-La asignación de permisos de administrador te permite una administración sencilla y completa con control total sobre tu servidor. Como administrador, tienes la opción de usar todas las opciones y funciones disponibles que ofrece el juego directamente dentro del juego. A continuación, se describen todos los pasos que debes seguir para asignar permisos de administrador a tu servidor.  
+La asignación de permisos de administrador te permite una administración sencilla y completa con control total de tu servidor. Como administrador, tienes la opción de usar todas las opciones y funciones disponibles que ofrece el juego directamente dentro del juego. A continuación, se describen todos los pasos que debes seguir para asignar permisos de administrador a tu servidor. 
 <InlineVoucher />
 
 ## Configuración
-Agregar un admin se hace a través del archivo de configuración **serveradmin.xml**, que puedes encontrar en la interfaz web bajo Configs.
+Agregar un admin se hace a través del archivo de configuración **serveradmin.xml**, que puedes encontrar en el panel web bajo Configs.
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/wXpLL2qyZE2zCYa/preview)
 
-Puedes encontrar tu SteamID64 yendo a tu perfil de Steam y haciendo clic derecho en cualquier parte del perfil. Luego haz clic en **Copiar URL de Steam**.
+Puedes encontrar tu SteamID64 yendo a tu perfil de Steam y haciendo clic derecho en cualquier parte del mismo. Luego haz clic en **Copiar URL de Steam**. 
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/Q9WJ8GwbHCmTRPx/preview)
 
-Después abre una de las siguientes páginas y pega la URL de tu perfil allí:
+
+
+Después abre una de las siguientes páginas y pega la URL de tu perfil allí: 
 
 - https://steamrep.com/
 - https://steamidfinder.com/
 - https://steamid.io/
 
-Esto te proporcionará información general así como el Steam ID de tu cuenta. En este caso solo necesitamos el SteamID64. El SteamID64 se especifica luego dentro de ``<admins>...</admins>``. Se verá así:
+Esto te proporcionará información general así como el Steam ID de tu cuenta. En este caso solo necesitamos el SteamID64. El SteamID64 se especifica luego bajo ``<admins>...</admins>``. Esto se verá así:
 
 ```
  <users>
@@ -37,14 +45,16 @@ Esto te proporcionará información general así como el Steam ID de tu cuenta. 
 ```
 
 :::danger  ¿No se reconoce el registro de admin? 
-Asegúrate de eliminar los caracteres de comentario `<!--` y `-->` para que la línea sea válida. De lo contrario, la línea seguirá siendo solo un comentario y no se aplicará. Simplemente elimina esos caracteres al inicio y al final de la línea para activarla.
+Asegúrate de eliminar los caracteres de comentario `<!--` y `-->` para que la línea sea válida. De lo contrario, la línea seguirá siendo solo un comentario y no se aplicará. Simplemente elimina los caracteres al inicio y al final de la línea para activarla.
 :::
 
-El juego ofrece la posibilidad de definir diferentes niveles de permisos para los permisos de administrador. Esto significa que es posible definir distintos grupos de administradores con permisos diferentes. El nivel se define con la opción ``permission_level``. Este puede configurarse de 0 a 1000. Dependiendo de cómo se configure, los administradores tendrán acceso a los permisos asignados. Una vez hecho esto, los permisos de administrador se habrán asignado correctamente.
+El juego ofrece la posibilidad de definir diferentes niveles de permisos para los permisos de administrador. Esto significa que es posible definir diferentes grupos de administradores con distintos permisos. El nivel se define con la opción ``permission_level``. Esto puede configurarse de 0 a 1000. Dependiendo de cómo se configure, los administradores tendrán acceso a los permisos asignados. Una vez hecho esto, los permisos de administrador se habrán asignado correctamente. 
+
+
 
 ## Permisos
 
-Los permisos para todos los comandos de administrador se pueden definir bajo ``permissions``. Para esto, el ``permission_level`` debe ajustarse, igual que cuando agregas administradores. Se verá así:
+Los permisos para todos los comandos de administrador pueden definirse bajo ``permissions``. Para esto, el ``permission_level`` debe ajustarse, igual que cuando agregas administradores. Esto se verá así:
 
 ```
 <permissions>
@@ -58,10 +68,11 @@ Los permisos para todos los comandos de administrador se pueden definir bajo ``p
 </permissions>
 ```
 
-Un nivel de permiso es un valor entre 0 y 1000 que determina qué permisos tiene un jugador. 1000 es el nivel más bajo (sin permisos) y 0 es el más alto (permisos completos de administrador). Dependiendo de cómo quieras que sean los permisos, debes ajustarlo en consecuencia.
+Un nivel de permiso es un valor entre 0 y 1000 y determina qué permisos tiene un jugador. 1000 es el más bajo (sin permisos) y 0 es el más alto (permisos completos de administrador). Dependiendo de cómo deban ser los permisos en este sentido, se debe ajustar en consecuencia. 
+
 
 ## Conclusión
 
-¡Felicidades, has configurado con éxito los permisos de administrador! Para cualquier duda o ayuda, no dudes en contactar a nuestro equipo de soporte, que está disponible todos los días para asistirte. 🙂
+¡Felicidades, has configurado con éxito los permisos de administrador! Para cualquier pregunta o ayuda adicional, no dudes en contactar a nuestro equipo de soporte, que está disponible todos los días para asistirte! 🙂
 
 <InlineVoucher />
