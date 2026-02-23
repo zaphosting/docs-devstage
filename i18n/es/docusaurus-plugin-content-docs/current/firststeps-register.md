@@ -6,11 +6,12 @@ sidebar_label: Registro
 ---
 
 ## Crear cuenta
-Crear una cuenta en ZAP-Hosting es el primer paso para acceder y gestionar todos los servicios y funciones. El proceso de registro es rápido y solo requiere algunos datos.
+Crear una cuenta en ZAP-Hosting es el primer paso para acceder y gestionar todos los servicios y funciones. El proceso de registro es rápido y solo requiere unos pocos datos. Test
 
-Para empezar el registro, visita la página web de ZAP-Hosting y navega hasta la página de inicio. Allí encontrarás el área de inicio de sesión con un botón **¡Regístrate!**. Haz clic en **¡Regístrate!** para abrir la ventana emergente de registro.
+Para empezar el registro, visita la página web de ZAP-Hosting y navega hasta la página de inicio. Ahí encontrarás el área de login con un botón **¡Regístrate!**. Haz clic en **¡Regístrate!** para abrir la ventana emergente de registro.
 
 ![img](https://screensaver01.zap-hosting.com/index.php/s/5b6Wzc27CcHW3Zx/download)
+
 
 Dentro de la ventana emergente, debes definir la siguiente información:
 
@@ -24,7 +25,7 @@ Después de ingresar tus datos, confirma el captcha de seguridad. Este paso es n
 
 ## Activación de la cuenta
 
-Después de enviar el formulario de registro, se envía un correo de activación a la dirección proporcionada. Este correo contiene un código de activación que debes confirmar para completar la configuración de la cuenta.
+Después de enviar el formulario de registro, se envía un correo de activación a la dirección de email proporcionada. Este correo contiene un código de activación que debes confirmar para completar la configuración de la cuenta.
 
 La entrega del correo de activación puede tardar unos minutos. Si el mensaje no aparece en tu bandeja de entrada, revisa también la carpeta de spam o correo no deseado.
 
