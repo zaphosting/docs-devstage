@@ -1,7 +1,7 @@
 ---
 id: abioticfactor-crossplay
-title: "Abiotic Factor: Konfiguracja Crossplay i Jak Połączyć się z Konsoli"
-description: "Dowiedz się, jak włączyć i zarządzać crossplay w Abiotic Factor, aby grać razem na PC i konsolach → Sprawdź teraz"
+title: "Abiotic Factor: Skonfiguruj Crossplay i Dowiedz się, Jak Połączyć się z Konsoli"
+description: "Odkryj, jak włączyć i zarządzać crossplay w Abiotic Factor, aby grać razem na PC i konsolach → Sprawdź teraz"
 sidebar_label: Crossplay
 services:
   - gameserver-abioticfactor
@@ -11,23 +11,25 @@ import InlineVoucher from '@site/src/components/InlineVoucher';
 
 ## Wprowadzenie
 
-Dzięki dużej aktualizacji **"Cold Fusion" (Wersja 1.0)** wydanej **22 lipca 2025**, **Abiotic Factor** oficjalnie wspiera teraz crossplay. Gracze na **PC (Steam)**, **PlayStation 5** oraz **Xbox Series X/S** mogą wspólnie eksplorować głębiny ośrodka badawczego, niezależnie od platformy.
+Dzięki dużej aktualizacji **"Cold Fusion" (Wersja 1.0)** wydanej **22 lipca 2025**, **Abiotic Factor** oficjalnie wspiera teraz crossplay. Gracze na **PC (Steam)**, **PlayStation 5** oraz **Xbox Series X/S** mogą wspólnie eksplorować głębiny placówki badawczej, niezależnie od platformy.
 
 Crossplay jest domyślnie włączony dla wszystkich obsługiwanych platform. W razie potrzeby dostęp można ograniczyć do konkretnych platform, np. tylko dla graczy na PC lub jednej konsoli.
+
+Test
 
 <InlineVoucher />
 
 ## Zarządzanie ustawieniami Crossplay
 
-Ustawienia crossplay możesz zarządzać bezpośrednio z **panelu administracyjnego** swojego serwera gier. W sekcji **"Ustawienia"** możesz określić, czy gracze mogą łączyć się ze wszystkich platform, czy tylko z wybranych systemów, takich jak **PC** lub **konsola**. Dzięki temu masz pełną kontrolę nad tym, które platformy są dozwolone do crossplay.
+Ustawienia crossplay możesz zarządzać bezpośrednio z **panelu administracyjnego** swojego serwera gier. W sekcji **"Ustawienia"** możesz określić, czy gracze mogą łączyć się ze wszystkich platform, czy tylko z wybranych systemów, takich jak **PC** lub **konsola**. Dzięki temu masz pełną kontrolę nad tym, które platformy są dopuszczone do crossplay.
 
 ![img](https://screensaver01.zap-hosting.com/index.php/s/GbP69ZKBnsQC3J4/preview)
 
 ## Łączenie się z konsoli
 
-Ponieważ gracze na PC i konsolach nie mogą dodawać się nawzajem do znajomych, dołączenie do wspólnego serwera wymaga bezpośredniego połączenia przez wbudowaną przeglądarkę serwerów w grze. Użytkownicy konsol muszą upewnić się, że crossplay jest włączony w ustawieniach gry, aby widzieć i łączyć się z serwerami międzyplatformowymi.
+Ponieważ gracze na PC i konsolach nie mogą dodawać się nawzajem do znajomych, dołączenie do wspólnego serwera wymaga bezpośredniego połączenia przez wbudowaną przeglądarkę serwerów w grze. Użytkownicy konsol muszą upewnić się, że crossplay jest włączony w ustawieniach gry, aby widzieć i łączyć się z serwerami cross-platformowymi.
 
-Aby zacząć, otwórz Abiotic Factor na swojej konsoli i przejdź do menu ustawień. Upewnij się, że opcja `Crossplay` jest ustawiona na `Włączone`. To kluczowe, aby serwer pojawił się na liście podczas wyszukiwania między platformami. Zazwyczaj pojawia się to przy pierwszym uruchomieniu gry, z pytaniem o aktywację tej opcji.
+Aby zacząć, otwórz Abiotic Factor na swojej konsoli i przejdź do menu ustawień. Upewnij się, że opcja `Crossplay` jest ustawiona na `Włączone`. To kluczowe, aby serwer pojawił się na liście podczas wyszukiwania serwerów na różnych platformach. Zazwyczaj pojawia się to przy pierwszym uruchomieniu gry, z pytaniem o aktywację tej opcji.
 
 ![img](https://screensaver01.zap-hosting.com/index.php/s/WBZ9bntNTRZ5SRg/preview)
 
@@ -35,7 +37,7 @@ Gdy crossplay jest włączony, wróć do menu głównego i wybierz **Enter The F
 
 ![img](https://screensaver01.zap-hosting.com/index.php/s/GDwMiQbxak3bqgd/preview)
 
-Jeśli łączysz się przez IP, upewnij się, że adres i port są wpisane poprawnie, aby połączenie zostało nawiązane bez problemów. Po poprawnym połączeniu zostaniesz od razu przeniesiony na serwer, by zacząć grać.
+Jeśli łączysz się przez IP, upewnij się, że adres i port są wpisane poprawnie, aby połączenie powiodło się. Po wykonaniu tych kroków zostaniesz bezpośrednio przeniesiony na serwer i możesz zacząć grać.
 
 ![img](https://screensaver01.zap-hosting.com/index.php/s/GEn69G86bEe65zA/preview)
 
