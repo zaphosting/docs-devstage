@@ -68,6 +68,7 @@ jobs:
         with:
           script: |
             const prNumber = context.payload.pull_request.number;
+            const prTitle = context.payload.pull_request.title;
             const branch = `translations/pr-${prNumber}`;
             const baseBranch = context.payload.pull_request.base.ref;
 
@@ -82,7 +83,7 @@ jobs:
               const { data: newPR } = await github.rest.pulls.create({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                title: `Auto-translate: PR #${prNumber}`,
+                title: `Auto-translate: ${prTitle} (#${prNumber})`,
                 body: `Automated translations for #${prNumber}.\n\nMerge this PR **after** #${prNumber} has been merged.`,
                 head: branch,
                 base: baseBranch
