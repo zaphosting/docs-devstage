@@ -11,9 +11,13 @@ import InlineVoucher from '@site/src/components/InlineVoucher';
 
 <InlineVoucher />
 
+
+
+Test 123 hehehe
+
 ## La Console
 Pour exécuter des commandes sur votre serveur, vous devez être admin. Si vous ne savez pas comment devenir admin, consultez notre guide.
-Toutes les commandes doivent être exécutées via la console développeur. Vous pouvez l’ouvrir en appuyant sur `F1`.
+Toutes les commandes doivent être exécutées via la console développeur. Vous pouvez l’ouvrir en appuyant sur `F1`
 
 La console ressemble à ça :
 
@@ -24,7 +28,7 @@ Les commandes les plus importantes :
 
 | Commande    | Description                                                 |
 | ----------------- | ------------------------------------------------------------ |
-| giveself [id de l’objet] [niveau de qualité 1-6] | Ajoute un objet à votre inventaire, avec le niveau de qualité choisi |
+| giveself [id objet] [niveau qualité 1-6] | Ajoute un objet à votre inventaire, avec le niveau de qualité choisi |
 | debugmenu on/off | Active le menu Debug, accessible en appuyant sur G |
 | giveselfxp [quantité] | Ajoute des points d’XP à votre personnage |
 | creativemenu on/off | Active le menu Créatif, accessible en appuyant sur U |

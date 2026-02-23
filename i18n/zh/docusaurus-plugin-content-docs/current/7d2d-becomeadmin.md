@@ -1,7 +1,7 @@
 ---
 id: 7d2d-becomeadmin
 title: "7 Days to Die：如何成为7 Days to Die的管理员"
-description: "了解如何分配和管理管理员权限，实现服务器的全面控制和自定义管理员角色 → 立即了解更多"
+description: "了解如何分配和管理管理员权限，实现对服务器的全面控制和自定义管理员角色 → 立即了解更多"
 sidebar_label: 成为管理员
 services:
   - gameserver-7d2d
@@ -9,8 +9,14 @@ services:
 
 import InlineVoucher from '@site/src/components/InlineVoucher';
 
+
+
+测试 测试 测试 
+
+
+
 ## 介绍
-分配管理员权限让你可以轻松且全面地管理服务器。作为管理员，你可以直接在游戏中使用游戏提供的所有可用选项和功能。下面将详细介绍为你的服务器分配管理员权限所需的所有步骤。  
+分配管理员权限让你可以轻松全面地管理服务器。作为管理员，你可以直接在游戏中使用游戏提供的所有可用选项和功能。下面将详细介绍为你的服务器分配管理员权限所需的所有步骤。 
 <InlineVoucher />
 
 ## 配置
@@ -18,9 +24,11 @@ import InlineVoucher from '@site/src/components/InlineVoucher';
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/wXpLL2qyZE2zCYa/preview)
 
-你可以通过访问你的Steam个人资料并在页面任意位置右键点击来找到你的SteamID64。然后点击 **复制Steam链接**。
+你可以通过访问你的Steam个人资料并在任意位置右键点击来找到你的SteamID64。然后点击 **复制Steam链接**。
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/Q9WJ8GwbHCmTRPx/preview)
+
+
 
 接着打开以下任意网站，将你的个人资料链接粘贴进去：
 
@@ -28,7 +36,7 @@ import InlineVoucher from '@site/src/components/InlineVoucher';
 - https://steamidfinder.com/
 - https://steamid.io/
 
-这些网站会提供你的账户的基本信息以及Steam ID。这里我们只需要SteamID64。SteamID64需要写在 ``<admins>...</admins>`` 标签内，格式如下：
+这样你就能获得你的Steam账号的相关信息，包括Steam ID。这里我们只需要SteamID64。SteamID64需要写在 ``<admins>...</admins>`` 标签内，格式如下：
 
 ```
  <users>
@@ -37,10 +45,12 @@ import InlineVoucher from '@site/src/components/InlineVoucher';
 ```
 
 :::danger  管理员记录无法识别？ 
-确保删除注释符号 `<!--` 和 `-->`，使该行生效。否则该行仍然是注释，不会被应用。只需删除行首和行尾的注释符号即可激活该行。
+确保删除注释符号 `<!--` 和 `-->`，使该行生效。否则这行会被当作注释忽略。只需删除行首和行尾的注释符号即可激活该行。
 :::
 
 游戏支持为管理员权限定义不同的权限等级，也就是说可以创建不同权限的管理员组。权限等级由 ``permission_level`` 选项定义，范围是0到1000。根据配置，管理员将拥有对应的权限。完成后，管理员权限即成功分配。 
+
+
 
 ## 权限
 
@@ -58,10 +68,11 @@ import InlineVoucher from '@site/src/components/InlineVoucher';
 </permissions>
 ```
 
-权限等级是0到1000之间的数值，决定玩家拥有哪些权限。1000是最低权限（无权限），0是最高权限（完全管理员权限）。根据需要调整权限等级即可。
+权限等级是0到1000之间的数值，决定玩家拥有哪些权限。1000是最低权限（无权限），0是最高权限（完全管理员权限）。根据你想要的权限设置，调整对应的数值即可。 
+
 
 ## 总结
 
-恭喜你，管理员权限配置成功！如有任何疑问或需要帮助，欢迎随时联系我们的客服团队，我们每天都在线为你服务！🙂
+恭喜你，管理员权限配置成功！如果有任何问题或需要帮助，欢迎随时联系我们的客服团队，我们每天都在线为你服务！🙂
 
 <InlineVoucher />
