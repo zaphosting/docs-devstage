@@ -6,7 +6,7 @@ sidebar_label: Registreren
 ---
 
 ## Account aanmaken
-Een ZAP-Hosting account aanmaken is de eerste stap om toegang te krijgen tot en je diensten en functies te beheren. Het registratieproces is snel en vraagt slechts een paar gegevens.
+Een ZAP-Hosting account aanmaken is de eerste stap om toegang te krijgen tot en beheer te hebben over al je diensten en functies. Het registratieproces is snel en vraagt slechts een paar gegevens. Test
 
 Om te starten met registreren, ga je naar de ZAP-Hosting website en navigeer je naar de startpagina. Daar vind je het login-gedeelte met een **Aanmelden!** knop. Klik op **Aanmelden!** om het registratie-popupvenster te openen.
 
@@ -19,7 +19,7 @@ In het popupvenster vul je de volgende gegevens in:
 - E-mailadres
 - Wachtwoord
 
-Na het invullen van je gegevens bevestig je de beveiligingscaptcha. Deze stap is verplicht als bescherming tegen automatische registraties. Zodra alle velden zijn ingevuld en de captcha is bevestigd, verstuur je het registratieformulier om je account aan te maken.
+Na het invullen van je gegevens bevestig je de beveiligingscaptcha. Deze stap is verplicht ter bescherming tegen automatische registraties. Zodra alle velden zijn ingevuld en de captcha is bevestigd, verstuur je het registratieformulier om je account aan te maken.
 
 ![img](https://screensaver01.zap-hosting.com/index.php/s/k6P3wSKWWRRiYax/preview)
 
