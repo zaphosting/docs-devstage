@@ -6,7 +6,7 @@ sidebar_label: Register
 ---
 
 ## Create account
-Creating a ZAP-Hosting account is the first step to access and manage all services and features. The registration process is quick and only requires a few details.
+Creating a ZAP-Hosting account is the first step to access and manage all services and features. The registration process is quick and only requires a few details. Test
 
 To start the registration, visit the ZAP-Hosting website and navigate to the start page. There you will find the login area with a **Sign up!** button. Click on **Sign up!** to open the registration popup window.
 
