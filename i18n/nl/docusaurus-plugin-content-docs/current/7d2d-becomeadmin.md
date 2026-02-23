@@ -9,8 +9,14 @@ services:
 
 import InlineVoucher from '@site/src/components/InlineVoucher';
 
+
+
+Test Test Test 
+
+
+
 ## Introductie
-Het toewijzen van administratorrechten geeft je een simpele en uitgebreide adminervaring met volledige controle over je server. Als admin kun je alle beschikbare opties en functies van het spel direct in het spel gebruiken. Hieronder leggen we stap voor stap uit hoe je administratorrechten aan je server toewijst.  
+Het toewijzen van administratorrechten geeft je eenvoudige en uitgebreide controle over je server. Als admin kun je alle beschikbare opties en functies van het spel direct in het spel gebruiken. Hieronder leggen we stap voor stap uit hoe je administratorrechten voor jouw server kunt instellen. 
 <InlineVoucher />
 
 ## Configuratie
@@ -18,17 +24,19 @@ Een admin toevoegen doe je via de **serveradmin.xml** config, die je terugvindt 
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/wXpLL2qyZE2zCYa/preview)
 
-Je vindt je SteamID64 door naar je Steam-profiel te gaan en ergens met de rechtermuisknop te klikken. Klik dan op **Steam URL kopiëren**.
+Je vindt je SteamID64 door naar je Steam-profiel te gaan en ergens met de rechtermuisknop te klikken. Klik dan op **Steam URL kopiëren**. 
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/Q9WJ8GwbHCmTRPx/preview)
 
-Open daarna één van de volgende sites en plak daar de URL van je profiel:
+
+
+Open daarna een van de volgende sites en plak daar de URL van je profiel: 
 
 - https://steamrep.com/
 - https://steamidfinder.com/
 - https://steamid.io/
 
-Hier krijg je algemene info én je Steam ID. We hebben alleen de SteamID64 nodig. Die geef je vervolgens op onder ``<admins>...</admins>``. Dat ziet er zo uit:
+Hiermee krijg je algemene info én je Steam ID. We hebben alleen de SteamID64 nodig. Die vul je in onder ``<admins>...</admins>``. Dat ziet er zo uit:
 
 ```
  <users>
@@ -37,10 +45,12 @@ Hier krijg je algemene info én je Steam ID. We hebben alleen de SteamID64 nodig
 ```
 
 :::danger  Adminregel wordt niet herkend? 
-Check of je de commentaartekens `<!--` en `-->` hebt verwijderd om de regel geldig te maken. Anders blijft het gewoon een comment en wordt het niet toegepast. Verwijder simpelweg de tekens aan het begin en einde van de regel om het te activeren.
+Zorg dat je de commentaartekens `<!--` en `-->` verwijdert om de regel actief te maken. Anders blijft het een commentaarregel en wordt het niet toegepast. Verwijder simpelweg de tekens aan het begin en einde van de regel om het te activeren.
 :::
 
-Het spel biedt de mogelijkheid om verschillende permissieniveaus voor admins in te stellen. Zo kun je verschillende admingroepen maken met verschillende rechten. Het niveau wordt bepaald door de ``permission_level`` optie. Die kan van 0 tot 1000 ingesteld worden. Afhankelijk van de configuratie krijgen admins toegang tot de bijbehorende rechten. Zodra dit gedaan is, zijn de adminrechten succesvol toegewezen.
+Het spel biedt de mogelijkheid om verschillende permissieniveaus voor admins in te stellen. Zo kun je verschillende admingroepen maken met verschillende rechten. Het niveau wordt bepaald door de ``permission_level`` optie. Die kan van 0 tot 1000 worden ingesteld. Afhankelijk van deze instelling krijgen admins toegang tot de bijbehorende rechten. Zodra dit is gedaan, zijn de adminrechten succesvol toegewezen. 
+
+
 
 ## Rechten
 
@@ -58,7 +68,8 @@ De rechten voor alle admin-commando’s kun je instellen onder ``permissions``. 
 </permissions>
 ```
 
-Een permissieniveau is een waarde tussen 0 en 1000 en bepaalt welke rechten een speler heeft. 1000 is het laagste (geen rechten) en 0 is het hoogste (volledige adminrechten). Afhankelijk van hoe je de rechten wilt instellen, pas je dit dus aan.
+Een permissieniveau is een waarde tussen 0 en 1000 en bepaalt welke rechten een speler heeft. 1000 is het laagste (geen rechten) en 0 is het hoogste (volledige adminrechten). Afhankelijk van hoe je de rechten wilt instellen, pas je dit dus aan. 
+
 
 ## Conclusie
 

@@ -9,8 +9,14 @@ services:
 
 import InlineVoucher from '@site/src/components/InlineVoucher';
 
+
+
+Test Test Test 
+
+
+
 ## Introduktion
-Att tilldela administratörsrättigheter ger dig enkel och heltäckande administration med full kontroll över din server. Som admin kan du använda alla tillgängliga alternativ och funktioner som spelet erbjuder direkt i spelet. Alla steg du behöver göra för att tilldela adminrättigheter till din server beskrivs nedan.  
+Att tilldela administratörsrättigheter ger dig enkel och heltäckande administration med full kontroll över din server. Som admin kan du använda alla tillgängliga alternativ och funktioner som spelet erbjuder direkt i spelet. Alla steg du behöver göra för att tilldela adminrättigheter för din server beskrivs nedan. 
 <InlineVoucher />
 
 ## Konfiguration
@@ -22,13 +28,15 @@ Du hittar ditt SteamID64 genom att gå till din Steam-profil och högerklicka va
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/Q9WJ8GwbHCmTRPx/preview)
 
+
+
 Öppna sedan någon av följande sidor och klistra in URL:en till din profil där: 
 
 - https://steamrep.com/
 - https://steamidfinder.com/
 - https://steamid.io/
 
-Dessa ger dig allmän info samt Steam ID för ditt konto. Här behöver vi bara SteamID64. SteamID64 anges sedan under ``<admins>...</admins>``. Det ser ut så här:
+Dessa ger dig allmän information samt Steam-ID för ditt konto. Här behöver vi bara SteamID64. SteamID64 anges sedan under ``<admins>...</admins>``. Det ser ut så här:
 
 ```
  <users>
@@ -37,7 +45,7 @@ Dessa ger dig allmän info samt Steam ID för ditt konto. Här behöver vi bara 
 ```
 
 :::danger  Adminposten känns inte igen? 
-Se till att ta bort kommentartecknen `<!--` och `-->` för att göra raden giltig. Annars är raden bara en kommentar och tillämpas inte. Ta helt enkelt bort tecknen i början och slutet av raden för att aktivera den.
+Se till att ta bort kommentartecknen `<!--` och `-->` för att göra raden giltig. Annars förblir raden bara en kommentar och tillämpas inte. Ta helt enkelt bort tecknen i början och slutet av raden för att aktivera den.
 :::
 
 Spelet erbjuder möjligheten att definiera olika behörighetsnivåer för adminrättigheterna. Det betyder att du kan skapa olika admingrupper med olika rättigheter. Nivån definieras av ``permission_level``-inställningen. Den kan sättas från 0 till 1000. Beroende på hur detta konfigureras får administratörerna tillgång till de tilldelade rättigheterna. När detta är gjort har adminrättigheterna tilldelats framgångsrikt. 
@@ -46,7 +54,7 @@ Spelet erbjuder möjligheten att definiera olika behörighetsnivåer för adminr
 
 ## Rättigheter
 
-Rättigheterna för alla admin-kommandon definieras under ``permissions``. För detta måste ``permission_level`` justeras, precis som när du lägger till administratörer. Det ser ut så här:
+Rättigheterna för alla admin-kommandon kan definieras under ``permissions``. För detta måste ``permission_level`` justeras, precis som när du lägger till administratörer. Det ser ut så här:
 
 ```
 <permissions>
@@ -60,7 +68,7 @@ Rättigheterna för alla admin-kommandon definieras under ``permissions``. För 
 </permissions>
 ```
 
-En behörighetsnivå är ett värde mellan 0 och 1000 och avgör vilka rättigheter en spelare har. 1000 är lägst (inga rättigheter) och 0 är högst (fulla adminrättigheter). Beroende på hur rättigheterna ska vara måste detta justeras därefter. 
+En behörighetsnivå är ett värde mellan 0 och 1000 och bestämmer vilka rättigheter en spelare har. 1000 är lägst (inga rättigheter) och 0 är högst (fulla adminrättigheter). Beroende på hur rättigheterna ska vara måste detta justeras därefter. 
 
 
 ## Avslutning

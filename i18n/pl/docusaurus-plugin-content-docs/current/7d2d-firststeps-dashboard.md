@@ -12,27 +12,29 @@ import InlineVoucher from '@site/src/components/InlineVoucher';
 
 ## Wprowadzenie
 
-Interesujesz się **serwerem gier 7 Days to Die** lub już go posiadasz, ale brakuje Ci pełnego przeglądu administracji i łatwego dostępu do wszystkich niezbędnych opcji? Zwłaszcza na początku może to być wyzwanie. Spokojnie, poniżej dostarczymy Ci szczegółowe wprowadzenie do zarządzania Twoim serwerem, abyś miał jak najlepszy przegląd.
+Test 123
 
-Po przejściu przez ten poradnik, z łatwością będziesz mógł efektywnie zarządzać swoim serwerem i szybko oraz łatwo znaleźć wszystkie potrzebne opcje i funkcje. Otrzymasz tu uporządkowany przegląd, który krok po kroku pomoże Ci zapoznać się z administracją serwera i celowo poszerzać swoją wiedzę. Dzięki temu zapewnisz, że Twój **serwer gier 7 Days to Die** będzie optymalnie dopasowany do Twoich potrzeb i wykorzystasz maksymalnie dostępne możliwości.
+Interesujesz się **serwerem gier 7 Days to Die** lub już go posiadasz, ale nadal brakuje Ci pełnego przeglądu administracji i łatwego dostępu do wszystkich niezbędnych opcji? Zwłaszcza na początku może to być wyzwanie. Spokojnie, poniżej dostarczymy Ci szczegółowe wprowadzenie do zarządzania Twoją usługą, abyś miał jak najlepszy przegląd.
 
-<YouTube videoId="VS24IPMjtxk" imageSrc="https://screensaver01.zap-hosting.com/index.php/s/mL3iTqtoWcP7aCT/preview" title="Konfiguracja serwera 7D2D w zaledwie MINUTĘ!" description="Wolisz zobaczyć wszystko w akcji, żeby lepiej zrozumieć? Mamy to! Zanurz się w naszym wideo, które wszystko rozkłada na czynniki pierwsze. Niezależnie czy się spieszysz, czy po prostu wolisz chłonąć info w najbardziej angażujący sposób!"/>
+Po przejściu przez ten poradnik, z łatwością będziesz mógł efektywnie zarządzać swoim serwerem i szybko oraz łatwo znaleźć wszystkie potrzebne opcje i funkcje. Otrzymasz tu uporządkowany przegląd, który krok po kroku pomoże Ci zapoznać się z administracją serwera i celowo poszerzać swoją wiedzę. Dzięki temu zapewnisz, że Twój **serwer gier 7 Days to Die** będzie optymalnie dopasowany do Twoich potrzeb i wyciągniesz maksimum z dostępnych opcji.
+
+<YouTube videoId="VS24IPMjtxk" imageSrc="https://screensaver01.zap-hosting.com/index.php/s/mL3iTqtoWcP7aCT/preview" title="Konfiguracja serwera 7D2D w zaledwie MINUTĘ!" description="Wolisz zobaczyć wszystko w akcji, żeby lepiej zrozumieć? Mamy to! Zanurz się w naszym wideo, które wszystko rozkłada na czynniki pierwsze. Niezależnie czy się spieszysz, czy po prostu wolisz chłonąć informacje w najbardziej angażujący sposób!"/>
 
 <InlineVoucher />
 
 ## Administracja produktu
 
-W sekcji **Administracja produktu** znajdziesz wszystkie niezbędne strony do zarządzania swoim serwerem. Poniżej szczegółowo opisujemy dostępne opcje zarządzania serwerem. 
+W sekcji **Administracja produktu** znajdziesz wszystkie niezbędne strony do zarządzania swoim serwerem. Opcje zarządzania serwerem zostały szczegółowo wymienione poniżej.
 
 
 
 ### Panel główny
 
-**Panel główny** Twojego serwera to serce administracji. Wszystkie podstawowe i kluczowe informacje o Twojej usłudze są tu czytelnie przedstawione. Znajdziesz tu m.in. informacje o lokalizacji, statusie, adresie IP: porcie, używanej pamięci, aktualnej grze, nazwie serwera, mapie oraz liczbie dostępnych slotów. Dodatkowo wyświetlane jest wykorzystanie CPU, pamięci i RAM.
+**Panel główny** Twojego serwera to serce administracji. Wszystkie podstawowe i kluczowe informacje o Twojej usłudze są tutaj przejrzyście przedstawione. Znajdziesz tu na przykład informacje o lokalizacji, statusie, adresie IP: porcie, używanej pamięci, aktualnej grze, nazwie serwera, mapie oraz liczbie dostępnych slotów. Dodatkowo wyświetlane jest wykorzystanie CPU, pamięci i RAM.
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/AbM3mXZimLWaicr/preview)
 
-W panelu głównym masz też opcję uruchomienia, zatrzymania lub restartu usługi, co daje Ci pełną kontrolę nad działaniem serwera. Ponadto możesz uzyskać dostęp do konsoli na żywo, by na bieżąco śledzić stan serwera i w razie potrzeby podjąć natychmiastowe działania.
+W panelu głównym masz także możliwość uruchomienia, zatrzymania lub ponownego uruchomienia swojej usługi, aby mieć pełną kontrolę nad jej działaniem. Ponadto możesz uzyskać dostęp do konsoli na żywo, by otrzymywać informacje o stanie serwera w czasie rzeczywistym i w razie potrzeby podjąć bezpośrednie działania.
 
 
 
@@ -41,23 +43,24 @@ W panelu głównym masz też opcję uruchomienia, zatrzymania lub restartu usłu
 
 ### Statystyki
 
-W zakładce **Statystyki** otrzymujesz kompleksowy przegląd obciążenia Twojego serwera. Znajdziesz tam dane dotyczące różnych aspektów, takich jak obciążenie dostępnych slotów, CPU i pamięci. Możesz przeglądać te dane dla różnych okresów, np. ostatnich **60 minut, 24 godzin, 3 dni, 7 dni** lub **30 dni.**
+W zakładce **Statystyki** otrzymujesz kompleksowy przegląd obciążenia Twojego serwera. Znajdziesz tam informacje o różnych aspektach, takich jak obciążenie dostępnych slotów, CPU i pamięci. Możesz przeglądać te dane dla różnych okresów, na przykład dla ostatnich **60 minut, 24 godzin, 3 dni, 7 dni** lub **30 dni.**
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/N8jcmdqqG2Xt4Bk/preview)
 
-Dzięki tym informacjom zyskujesz dobry wgląd w wykorzystanie serwera. Statystyki te często pomagają też zidentyfikować potencjalne problemy z wydajnością i zawęzić ich przyczyny. Możesz np. prześledzić, kiedy wzrosło obciążenie i czy ma to związek z konkretnymi wydarzeniami lub zmianami. To szczególnie ważne przy nagłych problemach, bo pozwala podjąć celowe kroki do diagnozy i systematycznej analizy przyczyn.
+Dzięki tym informacjom zyskujesz dobry wgląd w wykorzystanie swojego serwera. Dodatkowo statystyki te często pomagają zidentyfikować możliwe problemy z wydajnością i zawęzić ich przyczyny. Na przykład możesz prześledzić, kiedy wykorzystanie wzrosło i czy jest to powiązane z konkretnymi wydarzeniami lub zmianami. To szczególnie ważne, gdy pojawiają się nagłe problemy, bo pozwala podjąć ukierunkowane kroki do diagnozy i systematycznej analizy potencjalnych przyczyn.
 
 
 
 ### Menedżer DDoS
 
 
-Przeglądaj przeszłe ataki DDoS, by lepiej ocenić potencjalne zagrożenia i wzorce. Włącz powiadomienia o trwających atakach DDoS na Twoim serwerze, aby szybko reagować, gdy coś się wydarzy.
 
-W zależności od lokalizacji serwera i dostępnej tam ochrony DDoS, możesz także monitorować aktywne ataki w czasie rzeczywistym. Obejmuje to szczegółowe dane o ruchu, pokazujące zarówno legalny ruch, jak i ilość ruchu zablokowanego przez systemy ochronne. Taki poziom przejrzystości pomaga zrozumieć, jak działa ochrona i umożliwia wczesne wykrywanie potencjalnych zagrożeń.
+Przeglądaj przeszłe ataki DDoS, aby lepiej ocenić potencjalne zagrożenia i wzorce. Włącz powiadomienia o trwających atakach DDoS na Twoim serwerze, by szybko reagować, gdy zajdzie taka sytuacja.
+
+W zależności od lokalizacji serwera i dostępnej tam ochrony DDoS, możesz także monitorować aktywne ataki w czasie rzeczywistym. Obejmuje to szczegółowe dane o ruchu, pokazujące zarówno legalny ruch, jak i ilość ruchu zablokowanego przez systemy mitigacji. Taki poziom przejrzystości pomaga zrozumieć, jak działa ochrona i pozwala wcześnie wykrywać potencjalne ryzyka.
 
 :::info Brak dostępu do menedżera DDoS?
-Korzystanie z Menedżera DDoS wymaga dedykowanego adresu IP lub dodatkowej opcji "Przegląd Menedżera DDoS". Jeśli Twój obecny pakiet nie zawiera tych elementów, możesz je dodać w każdej chwili, dokonując upgrade’u usługi.
+Korzystanie z Menedżera DDoS wymaga albo dedykowanego adresu IP, albo dodatkowej opcji "Przegląd Menedżera DDoS". Jeśli Twój obecny pakiet nie zawiera tych komponentów, możesz je dodać w każdej chwili, dokonując upgrade’u usługi.
 :::
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/ScCCCY52CMLgfyE/preview)
@@ -70,11 +73,11 @@ Korzystanie z Menedżera DDoS wymaga dedykowanego adresu IP lub dodatkowej opcji
 
 ### Sklep Tebex
 
-Dzięki Tebex możesz zamienić swój serwer gier w źródło zarobku, sprzedając wirtualne przedmioty i rangi za prawdziwe pieniądze. To potężne i niezawodne narzędzie stworzone specjalnie dla administratorów serwerów gier, którzy chcą zaoferować graczom lepsze doświadczenia.
+Dzięki Tebex możesz zamienić swój serwer gier w źródło zarobku, sprzedając wirtualne przedmioty i rangi za prawdziwe pieniądze. To potężne i niezawodne narzędzie stworzone specjalnie dla administratorów serwerów gier, którzy chcą zaoferować swoim graczom lepsze doświadczenia.
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/TbwafKd3Kmq4WrS/preview)
 
-Tebex jest łatwy w obsłudze i oferuje mnóstwo funkcji do personalizacji i optymalizacji Twojego sklepu. Możesz dostosować wygląd sklepu, dodać metody płatności, a nawet uruchomić kampanie marketingowe, by dotrzeć do większej liczby graczy.
+Tebex jest łatwy w obsłudze i oferuje mnóstwo funkcji do personalizacji i optymalizacji Twojego sklepu. Możesz dostosować wygląd sklepu, dodać opcje płatności, a nawet uruchomić kampanie marketingowe, by dotrzeć do większej liczby graczy.
 
 Klikając na obrazek, możesz stworzyć własny sklep serwera gier z Tebex. Konfiguracja jest szybka i prosta, więc w mgnieniu oka zaczniesz sprzedawać swoje wirtualne dobra.
 
@@ -82,19 +85,19 @@ Klikając na obrazek, możesz stworzyć własny sklep serwera gier z Tebex. Konf
 
 ### Pliki logów
 
-Masz problem techniczny i nie wiesz, skąd się bierze? Pierwszym krokiem do rozwiązania może być sprawdzenie **plików logów**. Zawierają one mnóstwo informacji o serwerze, takich jak bieżące zdarzenia, wskazówki czy komunikaty o błędach.
+Masz problem techniczny i nie wiesz, co jest jego przyczyną? Pierwszą możliwą strategią rozwiązania jest sprawdzenie **plików logów**. Te pliki zawierają mnóstwo informacji o serwerze, takich jak bieżące zdarzenia, wskazówki czy komunikaty o błędach.
 
-Szczególnie komunikaty o błędach pomagają zidentyfikować i lepiej zrozumieć przyczynę problemu. Często dzięki celowemu spojrzeniu w logi można odkryć i rozwiązać trudności.
+Szczególnie komunikaty o błędach mogą pomóc zidentyfikować i lepiej zrozumieć przyczynę problemu. Często trudności można wykryć i rozwiązać, zaglądając celowo do plików logów.
 
 :::info
-Nie pomogły Ci znalezione tam informacje lub ich nie rozumiesz? Spokojnie! Jesteśmy dostępni codziennie w supportcie. Po prostu stwórz **[Ticket](https://zap-hosting.com/en/customer/support/)** i opisz swój problem. Sprawdzimy to najszybciej, jak się da i pomożemy rozwiązać problem! :)
+Znaleziona tam informacja nie pomaga lub jej nie rozumiesz? Spokojnie! W takim wypadku jesteśmy codziennie dostępni w supportcie. Po prostu stwórz **[Ticket](https://zap-hosting.com/en/customer/support/)** i opisz nam swój problem. Przyjrzymy się mu jak najszybciej i pomożemy rozwiązać problem! :)
 :::
 
 
 
 ### Dziennik zdarzeń
 
-**Dziennik zdarzeń** daje Ci pełny przegląd wszystkich aktywności związanych z administracją serwera. Możesz w nim śledzić, kiedy serwer był uruchamiany, zatrzymywany lub ulegał awarii, a także kiedy wykonywano aktualizacje, kopie zapasowe czy nowe instalacje.
+**Dziennik zdarzeń** daje Ci pełny przegląd wszystkich aktywności związanych z administracją serwera. Możesz w nim śledzić, kiedy serwer był uruchamiany, zatrzymywany lub ulegał awarii, a także kiedy wykonywano aktualizacje, kopie zapasowe lub nowe instalacje.
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/xNzsaMbW5BS5KJC/preview)
 
@@ -102,21 +105,21 @@ Nie pomogły Ci znalezione tam informacje lub ich nie rozumiesz? Spokojnie! Jest
 
 ### Konsola na żywo
 
-**Konsola na żywo** oferuje Ci podgląd w czasie rzeczywistym wszystkich aktualnych zdarzeń na Twoim serwerze. Zobaczysz tam informacje o aktywnościach graczy, a także ewentualne komunikaty o błędach i systemowe. Ten przegląd pozwala mieć pełny obraz tego, co dzieje się na serwerze i wykrywać problemy na wczesnym etapie.
+**Konsola na żywo** oferuje Ci widok w czasie rzeczywistym na wszystkie bieżące zdarzenia na Twoim serwerze. Możesz tu zobaczyć informacje o aktywnościach graczy oraz ewentualne komunikaty o błędach i systemowe. Ten przegląd pozwala uzyskać pełny obraz tego, co dzieje się na Twoim serwerze i wykryć potencjalne problemy na wczesnym etapie.
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/J9SsmSrPXnG7P9w/preview)
 
-Oprócz monitorowania zdarzeń, możesz też wysyłać komendy bezpośrednio do serwera w **Konsoli na żywo**. Przydaje się to do szybkiego dostosowania ustawień, wykonania określonych akcji lub błyskawicznej reakcji na pojawiające się problemy.
+Oprócz monitorowania zdarzeń, możesz też wysyłać komendy bezpośrednio do serwera w **konsoli na żywo**. Przydaje się to do dostosowywania ustawień, wykonywania określonych akcji lub szybkiego reagowania na pojawiające się problemy.
 
 
 
-### Przerwy w działaniu
+### Przerwy w działaniu usługi
 
-Twój serwer był chwilowo offline i nie wiesz dlaczego? Sprawdzenie dziennika zdarzeń i plików logów nic nie wyjaśniło? Możliwe, że przyczyna problemu nie leży bezpośrednio po stronie Twojego serwera, lecz systemu hostującego, na którym działa Twój serwer.
+Twój serwer był chwilowo offline i nie potrafisz wyjaśnić dlaczego? Sprawdzenie dziennika zdarzeń i plików logów nie dało żadnych informacji? Możliwe, że przyczyna problemu nie leży bezpośrednio po stronie Twojego serwera, lecz systemu hostującego, na którym działa Twój serwer.
 
-Jeśli nasz system monitoringu wykryje ogólną przerwę, nasi technicy są automatycznie powiadamiani i zajmują się problemem najszybciej, jak to możliwe.
+Jeśli nasz system monitoringu wykryje ogólną przerwę, nasi technicy są automatycznie powiadamiani i zajmują się problemem jak najszybciej.
 
-W tej sekcji znajdziesz przegląd historii przerw systemu hostującego, na którym działa Twój serwer gier. Więcej informacji oraz aktualny status usług znajdziesz na naszej nowej [stronie statusu](https://status.zap-hosting.com/).
+W tej sekcji znajdziesz przegląd historii przerw systemu hostującego, na którym działa Twój serwer gier. Więcej informacji oraz najnowszą wersję statusu naszych usług znajdziesz na naszej nowej [stronie statusu](https://status.zap-hosting.com/).
 
 
 
@@ -129,17 +132,17 @@ W tej sekcji znajdziesz przegląd historii przerw systemu hostującego, na któr
 
 ## Ustawienia
 
-W sekcji **Ustawienia** znajdziesz wszystkie niezbędne strony do konfiguracji swojego serwera. Dostępne opcje konfiguracji serwera opisujemy szczegółowo poniżej.
+W sekcji **Ustawienia** znajdziesz wszystkie niezbędne strony do konfiguracji swojego serwera. Dostępne opcje konfiguracji serwera zostały szczegółowo wymienione poniżej.
 
 
 
 ### Ustawienia
 
-W ustawieniach znajdziesz przegląd najczęściej używanych opcji konfiguracyjnych dla Twojego serwera. Dołączone są też krótkie wyjaśnienia. Korzystanie z tej strony jest szczególnie polecane dla osób początkujących w administracji serwerem.
+W ustawieniach znajdziesz przegląd najczęściej używanych opcji konfiguracyjnych dla Twojego serwera. Znajduje się tam także krótki opis każdej z nich. Korzystanie ze strony ustawień jest szczególnie polecane dla osób początkujących w administracji serwerem.
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/QFGnanjY7wx9Prt/preview)
 
-Jeśli czujesz się pewniej i chcesz wprowadzać bardziej precyzyjne zmiany, polecamy skorzystać z Edytora Konfiguracji. Więcej informacji o tym znajdziesz w kategorii **Konfiguracje**.
+Jeśli czujesz się pewniej i chcesz wprowadzać bardziej precyzyjne zmiany, polecamy skorzystać z Edytora konfiguracji. Więcej informacji na ten temat znajdziesz w kategorii **Konfiguracje**.
 
 
 
@@ -147,17 +150,17 @@ Jeśli czujesz się pewniej i chcesz wprowadzać bardziej precyzyjne zmiany, pol
 
 Edytor plików konfiguracyjnych pozwala na bezpośrednią edycję plików konfiguracyjnych z poziomu strony, w klasyczny sposób, bez uproszczonego widoku. Ta opcja pozwala dostosować ustawienia serwera według własnych preferencji.
 
-Korzystając z edytora, masz bezpośredni dostęp do wszystkich dostępnych opcji i możesz je precyzyjnie modyfikować. To szczególnie przydatne dla zaawansowanych użytkowników, którzy chcą mieć pełną kontrolę nad ustawieniami serwera i dokładnie wiedzą, co chcą zmienić.
+Korzystając z edytora, masz bezpośredni dostęp do wszystkich dostępnych opcji i możesz je precyzyjnie modyfikować. Jest to szczególnie przydatne dla zaawansowanych użytkowników, którzy chcą mieć pełną kontrolę nad ustawieniami serwera i dokładnie wiedzą, jakie zmiany chcą wprowadzić.
 
 :::info
-Zauważyłeś, że niektóre zmiany są częściowo nadpisywane? Pamiętaj, że niektóre wartości opcji są pobierane ze strony ustawień. Jeśli chcesz wprowadzić te zmiany bezpośrednio w konfiguracji, najpierw wyłącz odpowiednie opcje na stronie ustawień.
+Zauważyłeś, że niektóre Twoje zmiany są częściowo nadpisywane? Pamiętaj, że niektóre wartości opcji są pobierane ze strony ustawień. Jeśli chcesz wprowadzić te zmiany bezpośrednio w konfiguracji, najpierw wyłącz odpowiednie opcje na stronie ustawień.
 :::
 
 
 
 ### Gry
 
-W zakładce **Gry** zawsze możesz zmienić wariant gry na swoim serwerze lub zainstalować zupełnie inną grę. Gry o tej samej cenie za slot możesz wybrać bezpośrednio w sekcji **Dostępne gry**. W przypadku innych gier konieczna jest najpierw zmiana ceny za slot. Więcej informacji znajdziesz w poradniku [Zmiana gry](gameserver-gameswitch.md).
+W zakładce **Gry** zawsze masz możliwość zmiany wariantu gry na swoim istniejącym serwerze lub zainstalowania innej gry w ogóle. Gry o tej samej cenie za slot możesz wybrać bezpośrednio w sekcji **Dostępne gry**. Dla wszystkich pozostałych gier konieczna jest najpierw zmiana ceny za slot. Więcej informacji na ten temat znajdziesz w poradniku [Zmiana gry](gameserver-gameswitch.md).
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/QB82f3CSKmJgwqk/preview)
 
@@ -169,13 +172,13 @@ W zakładce **Wersje** możesz przeglądać i zarządzać aktualną wersją swoj
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/qnwCnfMC5Bg8nir/preview)
 
-Dodatkowo możesz włączyć powiadomienia mailowe o automatycznych aktualizacjach, by być na bieżąco z nowościami i mieć pewność, że Twój serwer jest zawsze aktualny.
+Dodatkowo możesz włączyć powiadomienia mailowe o automatycznych aktualizacjach, aby być na bieżąco z nowościami i mieć pewność, że zawsze korzystasz z najnowszej wersji.
 
 
 
 ### Zadania zaplanowane
 
-Twórz zadania zaplanowane, które będą wykonywane automatycznie o określonych porach, aby zautomatyzować różne procesy na serwerze. Możesz ustawić, czy zadanie ma być wykonane jednokrotnie, czy powtarzane według potrzeb. Obsługiwane typy zadań to m.in. uruchamianie, zatrzymywanie lub restartowanie usług, restart serwera, jeśli jest online, tworzenie kopii zapasowych lub wykonywanie własnych komend.
+Twórz zadania zaplanowane, które będą wykonywane automatycznie o określonych porach, aby zautomatyzować różne procesy na Twoim serwerze. Możesz ustawić, czy zadanie ma być wykonane jednokrotnie, czy powtarzane według potrzeb. Obsługiwane typy zadań to m.in. uruchamianie, zatrzymywanie lub restartowanie usług, restart serwera jeśli jest online, tworzenie kopii zapasowych lub wykonywanie własnych komend.
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/P6DeWiRC3tDqG2z/preview)
 
@@ -191,25 +194,25 @@ Dzięki ustawieniom DNS ZAP możesz tworzyć łatwe do zapamiętania adresy dla 
 
 ## Narzędzia
 
-W sekcji **Narzędzia** w panelu nawigacyjnym znajdziesz kilka podsekcji, które pomogą Ci zarządzać serwerem. Należą do nich **Przeglądarka FTP**, **Bazy danych** oraz **Kopie zapasowe**. Poniżej znajdziesz szczegółowe wprowadzenie do tych obszarów.
+W sekcji **Narzędzia** w panelu nawigacyjnym znajdziesz szereg podpunktów, które pomogą Ci zarządzać serwerem. Należą do nich **Przeglądarka FTP**, **Bazy danych** oraz **Kopie zapasowe**. Poniżej otrzymasz szczegółowe wprowadzenie do tych obszarów.
 
 
 
 ### Przeglądarka FTP
 
-Korzystając z **Przeglądarki FTP**, otrzymasz wszystkie niezbędne dane do nawiązania połączenia z dostępem FTP. Dostęp FTP pozwala na bezpośredni dostęp do plików Twojego serwera gier. Dla optymalnego użytkowania polecamy korzystać z zewnętrznego programu FTP, takiego jak **Filezilla** lub **WinSCP**. Jeśli nie znasz się na FTP, warto zajrzeć do poradnika [Dostęp przez FTP](gameserver-ftpaccess.md).
+Korzystając z **Przeglądarki FTP**, otrzymasz wszystkie niezbędne informacje do nawiązania połączenia z dostępem FTP. Dostęp FTP pozwala na bezpośredni dostęp do plików Twojego serwera gier. Dla optymalnego użytkowania polecamy korzystać z zewnętrznego programu FTP, takiego jak **Filezilla** lub **WinSCP**. Jeśli nie znasz się na FTP, warto zajrzeć do poradnika [Dostęp przez FTP](gameserver-ftpaccess.md).
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/fZSYpSi4KwPos5P/preview)
 
-**FileZilla:**  FileZilla to najprostszy i najbardziej znany klient FTP. Wystarczy zainstalować, uruchomić i wpisać dane dostępowe w górnym pasku, które znajdziesz na tej stronie nieco wyżej. Po szybkim kliknięciu "Połącz" zalogujesz się bezpośrednio na serwer i możesz zarządzać plikami.
+**FileZilla:** FileZilla to najprostszy i najbardziej znany klient FTP. Wystarczy zainstalować, uruchomić i wpisać swoje dane dostępowe w górnym pasku, które znajdziesz na tej stronie trochę wyżej. Po szybkim kliknięciu "Połącz" jesteś od razu zalogowany na serwer i możesz zarządzać plikami.
 
-**WinSCP:**  WinSCP jest przeznaczony głównie do SCP i SFTP (szyfrowane wersje protokołu FTP), ale obsługuje też FTP. Program jest bardziej rozbudowany niż FileZilla i nadaje się dla zaawansowanych użytkowników.
+**WinSCP:** WinSCP jest właściwie przeznaczony do SCP i SFTP (szyfrowane odmiany protokołu FTP), ale radzi sobie też z FTP. Program jest bardziej rozbudowany niż FileZilla i nadaje się dla zaawansowanych użytkowników.
 
 
 
 ### Bazy danych
 
-Oprócz serwerów gier oferujemy też 10 wliczonych baz danych. Bazy te są potrzebne np. gdy dane muszą być przechowywane w bazie. W zakładce **Bazy danych** możesz utworzyć bazę i zobaczyć dane dostępowe. Masz też opcję włączenia backupu i importu istniejących kopii zapasowych bazy.
+Oprócz naszych produktów serwerów gier oferujemy także 10 wliczonych baz danych. Bazy te są potrzebne na przykład wtedy, gdy dane muszą być przechowywane w bazie. W zakładce **Bazy danych** możesz utworzyć bazę danych i zobaczyć dane dostępowe. Masz też opcję włączenia tworzenia kopii zapasowej oraz importu istniejących kopii baz danych.
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/WFLwCbZSQfYjrmD/preview)
 
@@ -217,19 +220,19 @@ Oprócz serwerów gier oferujemy też 10 wliczonych baz danych. Bazy te są potr
 
 ### Kopie zapasowe
 
-W zakładce **Kopie zapasowe** możesz tworzyć zarówno ręczne, jak i automatyczne kopie zapasowe swojego serwera i powiązanej bazy danych. Ułatwia to odzyskanie danych w razie problemów lub utraty danych.
+W zakładce **Kopie zapasowe** możesz tworzyć zarówno ręczne, jak i automatyczne kopie zapasowe swojego serwera oraz powiązanej bazy danych. Ułatwia to odzyskanie danych w razie problemów lub utraty danych.
 
-W ustawieniach możesz określić, czy kopie mają być tworzone automatycznie i czy ma to być codziennie czy co tydzień. Dodatkowo możesz zdecydować, czy najstarsze kopie mają być usuwane, np. gdy zabraknie miejsca na dysku.
+W ustawieniach możesz określić, czy kopie mają być tworzone automatycznie oraz czy ma to być codziennie czy co tydzień. Dodatkowo możesz zdecydować, czy najstarsze kopie mają być usuwane w razie potrzeby, np. gdy dostępne miejsce na dysku zaczyna się kończyć.
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/nm9za5LTMEcNsga/preview)
 
-Dla naszych serwerów gier domyślnie udostępniamy 10 GB przestrzeni na kopie zapasowe na serwerze storage. Jeśli potrzebujesz więcej miejsca, możesz dokupić upgrade. Dzięki temu masz pewność, że zawsze masz wystarczająco dużo miejsca na kopie i możesz w razie potrzeby sięgnąć po starsze backupy.
+Dla naszych produktów serwerów gier domyślnie zapewniamy 10 GB przestrzeni dyskowej na serwerze do przechowywania kopii zapasowych. Jeśli potrzebujesz więcej miejsca, możesz dokupić upgrade za dodatkową opłatą. Dzięki temu masz pewność, że zawsze masz wystarczająco dużo miejsca na kopie i w razie potrzeby dostęp do starszych backupów.
 
 ## Dalsze linki
 W sekcji **Dalsze linki** znajdziesz dodatkowe odnośniki istotne dla Twojego produktu. 
 
 ### Najczęściej zadawane pytania
-Sekcja **Najczęściej zadawane pytania** zawiera przegląd najpopularniejszych pytań od naszych klientów. Znajdziesz tu pomocne odpowiedzi i szczegółowe informacje na różne tematy, które pomogą Ci szybko i sprawnie.
+Sekcja **Najczęściej zadawane pytania** zawiera przegląd najczęściej zadawanych pytań przez naszych klientów. Znajdziesz tam pomocne odpowiedzi i szczegółowe informacje na różne tematy, które pomogą Ci szybko i sprawnie.
 
 ### Dokumentacja ZAP-Hosting
 Oferujemy obszerną dokumentację naszych produktów, która służy jako baza wiedzy dla najczęściej pojawiających się pytań i problemów. Znajdziesz tam różne poradniki i pomoc na różne tematy, które ułatwią Ci korzystanie i zarządzanie produktem.
@@ -237,13 +240,13 @@ Oferujemy obszerną dokumentację naszych produktów, która służy jako baza w
 ![](https://screensaver01.zap-hosting.com/index.php/s/n48ct6aZBrNq7eT/preview)
 
 ### Aktualności
-Sekcja **Aktualności** daje Ci pełny przegląd wszystkich ogłoszeń i nowości dotyczących Twojej usługi. Znajdziesz tu ważne informacje na różne tematy, takie jak:
+Sekcja **Aktualności** dostarcza Ci pełny przegląd wszystkich ogłoszeń i nowości związanych z Twoją usługą. Znajdziesz tam ważne informacje dotyczące różnych aspektów, takich jak:
 
 - Zmiany w usłudze, np. przez aktualizacje lub nowe funkcje
-- Ogłoszenia o możliwych pracach serwisowych lub problemach technicznych
-- Oferty specjalne i promocje, które dają Ci ekskluzywne korzyści lub rabaty
-- Inne istotne informacje, które mogą mieć znaczenie dla korzystania z usługi
+- Ogłoszenia o możliwych pracach konserwacyjnych lub problemach technicznych
+- Oferty specjalne i promocje, które dają Ci ekskluzywne korzyści lub zniżki
+- Inne istotne informacje, które mogą mieć znaczenie dla korzystania z Twojej usługi
 
-Regularne sprawdzanie **Aktualności** pozwoli Ci być na bieżąco i odpowiednio dostosować usługę, by wyciągnąć z serwera jak najwięcej.
+Regularne sprawdzanie **Aktualności** pozwoli Ci być na bieżąco i odpowiednio dostosować swoją usługę, aby wyciągnąć z serwera jak najwięcej.
 
 <InlineVoucher />

@@ -1,7 +1,7 @@
 ---
 id: 7d2d-commands
 title: "7 Days to Die : Commandes"
-description: "Découvrez comment gérer efficacement votre serveur grâce aux commandes admin et améliorez le contrôle du gameplay → En savoir plus maintenant"
+description: "Découvrez comment gérer efficacement votre serveur de jeux avec les commandes admin et améliorez le contrôle du gameplay → En savoir plus maintenant"
 sidebar_label: Commandes
 services:
   - gameserver-7d2d
@@ -11,9 +11,13 @@ import InlineVoucher from '@site/src/components/InlineVoucher';
 
 <InlineVoucher />
 
+
+
+Test 123 hehehe
+
 ## La Console
-Pour exécuter des commandes sur votre serveur, vous devez être admin. Si vous ne savez pas comment devenir admin, consultez notre guide.
-Toutes les commandes doivent être exécutées via la console développeur. Vous pouvez l’ouvrir en appuyant sur `F1`.
+Pour exécuter des commandes sur votre serveur de jeux, vous devez être admin. Si vous ne savez pas comment devenir admin, consultez notre guide.
+Toutes les commandes doivent être exécutées via la console développeur. Vous pouvez l’ouvrir en appuyant sur `F1`
 
 La console ressemble à ça :
 
@@ -29,7 +33,7 @@ Les commandes les plus importantes :
 | giveselfxp [quantité] | Ajoute des points d’XP à votre personnage |
 | creativemenu on/off | Active le menu Créatif, accessible en appuyant sur U |
 | spawnsupplycrate | Fait apparaître une caisse de ravitaillement à votre position |
-| admin [add] [remove] [list] | Permet d’ajouter/supprimer des admins |
+| admin [add] [remove] [list] | Cette commande sert à ajouter/supprimer des admins |
 | kick [nom du joueur] [raison] | Expulse un joueur du serveur |
 | tele [Joueur A] [Joueur B] | Téléporte le Joueur A vers le Joueur B |
 | weather | Change les conditions météo |
