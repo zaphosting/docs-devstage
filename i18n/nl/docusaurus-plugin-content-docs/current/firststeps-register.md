@@ -6,14 +6,14 @@ sidebar_label: Registreren
 ---
 
 ## Account aanmaken
-Een ZAP-Hosting account aanmaken is de eerste stap om toegang te krijgen tot en je diensten en functies te beheren. Het registratieproces is snel en vraagt slechts een paar gegevens.
+Een ZAP-Hosting account aanmaken is de eerste stap om toegang te krijgen tot en beheer te hebben over al je diensten en features. Het registratieproces is snel en vraagt maar om een paar gegevens. Test
 
 Om te starten met registreren, ga je naar de ZAP-Hosting website en navigeer je naar de startpagina. Daar vind je het login-gedeelte met een **Aanmelden!** knop. Klik op **Aanmelden!** om het registratie-popupvenster te openen.
 
 ![img](https://screensaver01.zap-hosting.com/index.php/s/5b6Wzc27CcHW3Zx/download)
 
 
-In het popupvenster vul je de volgende gegevens in:
+In het popupvenster moet je de volgende info invullen:
 
 - Gebruikersnaam
 - E-mailadres
@@ -25,10 +25,10 @@ Na het invullen van je gegevens bevestig je de beveiligingscaptcha. Deze stap is
 
 ## Account activeren
 
-Na het versturen van het registratieformulier ontvang je een activatiemail op het opgegeven e-mailadres. Deze mail bevat een activatiecode die je moet bevestigen om de accountsetup te voltooien.
+Na het versturen van het registratieformulier ontvang je een activatiemail op het opgegeven e-mailadres. Deze mail bevat een activatiecode die je moet bevestigen om de accountsetup af te ronden.
 
-Het kan een paar minuten duren voordat de activatiemail aankomt. Als je de mail niet in je inbox ziet, check dan ook je spam- of ongewenste mailmap.
+Het kan een paar minuten duren voordat de activatiemail binnenkomt. Als je de mail niet in je inbox ziet, check dan ook je spam- of ongewenste mailmap.
 
 :::warning Beperkte functionaliteit zonder activatie
-Je kunt direct na registratie inloggen. Maar om toegang te krijgen tot alle functies en diensten, moet je de activatiemail bevestigen.
+Je kunt direct na registratie inloggen. Maar om toegang te krijgen tot alle features en diensten, moet je de activatiemail bevestigen.
 :::

@@ -6,7 +6,7 @@ sidebar_label: Registrati
 ---
 
 ## Crea un account
-Creare un account ZAP-Hosting è il primo passo per accedere e gestire tutti i servizi e le funzionalità. La registrazione è veloce e richiede solo pochi dati.
+Creare un account ZAP-Hosting è il primo passo per accedere e gestire tutti i servizi e le funzionalità. La registrazione è veloce e richiede solo pochi dati. Test
 
 Per iniziare la registrazione, visita il sito di ZAP-Hosting e vai alla pagina iniziale. Lì troverai l’area di login con un pulsante **Iscriviti!**. Clicca su **Iscriviti!** per aprire la finestra popup di registrazione.
 
@@ -15,11 +15,11 @@ Per iniziare la registrazione, visita il sito di ZAP-Hosting e vai alla pagina i
 
 Nella finestra popup, devi inserire le seguenti informazioni:
 
-- Nome utente
+- Username
 - Indirizzo email
 - Password
 
-Dopo aver inserito i dati, conferma il captcha di sicurezza. Questo passaggio serve a proteggerti da registrazioni automatiche. Una volta completati tutti i campi e confermato il captcha, invia il modulo di registrazione per creare il tuo account.
+Dopo aver inserito i tuoi dati, conferma il captcha di sicurezza. Questo passaggio serve a proteggerti dalle registrazioni automatiche. Una volta compilati tutti i campi e confermato il captcha, invia il modulo di registrazione per creare il tuo account.
 
 ![img](https://screensaver01.zap-hosting.com/index.php/s/k6P3wSKWWRRiYax/preview)
 
@@ -30,5 +30,5 @@ Dopo aver inviato il modulo di registrazione, riceverai un’email di attivazion
 La consegna dell’email di attivazione può richiedere qualche minuto. Se non la trovi nella posta in arrivo, controlla anche la cartella spam o posta indesiderata.
 
 :::warning Funzionalità limitate senza attivazione
-Puoi accedere subito dopo la registrazione. Però, per usare tutte le funzionalità e servizi, devi confermare l’email di attivazione.
+Puoi effettuare il login subito dopo la registrazione. Però, per accedere a tutte le funzionalità e servizi, devi confermare l’email di attivazione.
 :::
